@@ -103,7 +103,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![Screenshot (64)](https://github.com/nickcaviness/post-install-config/assets/137835904/33d50903-a214-4358-85ff-9acfdf892129)
 
 
-8) Create some help topics that users and agents may refer to. From **_Admin Panel_**, go to **_Manage_** -> **_Help Topics_** -> **_Add New Help Topic_**. Add topics that an agent or user may need to know when encountering a problem. 
+8) Create some help topics that users will provide to the agents when creating a ticket.. From **_Admin Panel_**, go to **_Manage_** -> **_Help Topics_** -> **_Add New Help Topic_**. Add the following topics. 
 
 ![Screenshot (65)](https://github.com/nickcaviness/post-install-config/assets/137835904/ae419ee5-d6bf-46d0-b01d-9106f5a657b7)
 
