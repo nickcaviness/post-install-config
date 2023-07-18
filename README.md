@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,6 +25,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2>Configuration Steps</h2>
+
+1) Login to osTicket and switch the diplay from **_Agent Panel_** to **_Admin Panel_**.
+
+![Screenshot (35)](https://github.com/nickcaviness/post-install-config/assets/137835904/ce8c8c0e-e983-4bf7-83b2-3934f4e412ff)
+
+![Screenshot (38)](https://github.com/nickcaviness/post-install-config/assets/137835904/16780cdb-67f6-4cc1-82c5-034a891540e7)
+
+
+2) Create a new role by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
