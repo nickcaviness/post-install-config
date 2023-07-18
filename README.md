@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![Screenshot (55)](https://github.com/nickcaviness/post-install-config/assets/137835904/1684f940-5ea4-44e5-b4a1-3fe3bdcdd34f)
 
 
-Create users (customers) that will put in a ticket and request help from the agent. Switch to the **_Agent Panel_** and go to **_Users_** -> **_Add User_**. Fill out the new information for the new user. 
+6) Create users (customers) that will put in a ticket and request help from the agent. Switch to the **_Agent Panel_** and go to **_Users_** -> **_Add User_**. Fill out the new information for the new user. 
 
 ![Screenshot (56)](https://github.com/nickcaviness/post-install-config/assets/137835904/3b2e5351-110a-485d-b940-a8a2be2a61fd)
 
@@ -88,24 +88,35 @@ Create users (customers) that will put in a ticket and request help from the age
 ![Screenshot (58)](https://github.com/nickcaviness/post-install-config/assets/137835904/44452c9a-94ea-40c0-9917-4d440762f4b6)
 
 
+7) Create Service Level Agreements (or SLA) to give an approximate time for a ticket to be completed. Switch to the **_Admin Panel_**. Go to **_Manage_** -> **_SLA_**. Create three different SLAs with different names, grace periods, and the schedule.  
+
+![Screenshot (59)](https://github.com/nickcaviness/post-install-config/assets/137835904/7b40a851-b561-4031-a696-15447a30298a)
+
+![Screenshot (60)](https://github.com/nickcaviness/post-install-config/assets/137835904/1d27ad0f-efbf-4791-bab8-5c3bfac19d12)
+
+![Screenshot (61)](https://github.com/nickcaviness/post-install-config/assets/137835904/7ee0249d-5115-46c4-ba46-d22e2fa1dfc0)
+
+![Screenshot (62)](https://github.com/nickcaviness/post-install-config/assets/137835904/359fc8b5-9d2d-4f4e-89b3-1c661a78b3d2)
+
+![Screenshot (63)](https://github.com/nickcaviness/post-install-config/assets/137835904/12b19490-5c4e-475d-b216-28d396bc4cea)
+
+![Screenshot (64)](https://github.com/nickcaviness/post-install-config/assets/137835904/33d50903-a214-4358-85ff-9acfdf892129)
 
 
+8) Create some help topics that users and agents may refer to. From **_Admin Panel_**, go to **_Manage_** -> **_Help Topics_** -> **_Add New Help Topic_**. Add topics that an agent or user may need to know when encountering a problem. 
+
+![Screenshot (65)](https://github.com/nickcaviness/post-install-config/assets/137835904/ae419ee5-d6bf-46d0-b01d-9106f5a657b7)
+
+![Screenshot (66)](https://github.com/nickcaviness/post-install-config/assets/137835904/8c19ba3d-e0e8-4911-83e0-62cb500eedce)
+
+![Screenshot (67)](https://github.com/nickcaviness/post-install-config/assets/137835904/6ed49c15-0a8e-45c6-bdaa-71066d0f01a0)
+
+![Screenshot (68)](https://github.com/nickcaviness/post-install-config/assets/137835904/8ce61b90-3a47-402b-8f8d-e3b6ee9639c6)
+
+![Screenshot (69)](https://github.com/nickcaviness/post-install-config/assets/137835904/ea496100-0057-4f4b-ac75-0afe0ec161d8)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+9) This completes the Post Install Configuration for osTicket.
 
 
 
