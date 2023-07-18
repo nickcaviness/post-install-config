@@ -33,11 +33,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![Screenshot (38)](https://github.com/nickcaviness/post-install-config/assets/137835904/16780cdb-67f6-4cc1-82c5-034a891540e7)
 
 
-2) Create a new role by 
+2) Create a new role on the **_Admin Panel_**. Go to **_Agents_** -> **_Roles_** -> **_Add New Role_**. Give it a name and assign all permissions to the new role.
 
+![Screenshot (39)](https://github.com/nickcaviness/post-install-config/assets/137835904/21b0cd09-b1e1-4e98-8b13-5bb5996e6a52)
 
+![Screenshot (40)](https://github.com/nickcaviness/post-install-config/assets/137835904/2f52bd2d-142e-4579-b85f-ecd9a2308a5a)
 
+![Screenshot (41)](https://github.com/nickcaviness/post-install-config/assets/137835904/a9baa0f4-3121-4238-928a-d6a254b62bc9)
 
+![Screenshot (42)](https://github.com/nickcaviness/post-install-config/assets/137835904/d2900d22-6d21-45b2-bd04-9bb1f9daef32)
+
+![Screenshot (43)](https://github.com/nickcaviness/post-install-config/assets/137835904/ee5c30bf-3c09-4f90-8839-251ba50b33ad)
+
+![Screenshot (44)](https://github.com/nickcaviness/post-install-config/assets/137835904/a44ac597-6f06-4b56-bf09-620de08454fe)
 
 
 
